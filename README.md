@@ -29,4 +29,5 @@ It covers camera calibration, disparity map generation, depth map computation, a
 
 ## Video Demonstration
 
-<video src="/output/out.avi" controls width="600"></video>
+![Demo](output/out.gif)
+
