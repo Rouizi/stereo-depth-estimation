@@ -2,7 +2,7 @@
 
 ![Demo](output/out.gif)
 
-This project explores **stereo vision** techniques for depth estimation and 3D perception.  
+This project explores **stereo vision** techniques for depth estimation.  
 It covers camera calibration, disparity map generation, depth map computation, and obstacle detection in 3D from stereo images.
 
 ---
